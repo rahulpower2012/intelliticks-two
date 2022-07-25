@@ -1,0 +1,8 @@
+{
+    "/data/v1/*": {
+    "target": "https://data.mongodb-api.com/app/data-echbm/endpoint",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug"
+    }
+}
